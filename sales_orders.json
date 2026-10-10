@@ -34,5 +34,13 @@
     "product": "Laptop",
     "amount": 60000,
     "status": "Shipped"
-  }
+  },
+  ,
+{
+  "order_id": 1006,
+  "customer": "DEF Ltd",
+  "product": "Keyboard",
+  "amount": 3000,
+  "status": "Pending"
+}
 ]
